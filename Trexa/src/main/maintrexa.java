@@ -15,6 +15,6 @@ public class maintrexa {
         frame.add(panel);
         frame.pack();
         frame.setVisible(true);
-	}
+	}//test
 
 }
